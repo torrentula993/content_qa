@@ -4,6 +4,7 @@
 rm -rf ~/Library/Caches/com.spotify.client
 rm -rf ~/Library/Application\ Support/Spotify/
 rm -rf /Applications/Spotify.app/
+rm -rf ~/Downloads/Install\ Spotify.app/
 
 #remove Flash cookies (FB)
 rm -rf ~/Library/Preferences/Macromedia/Flash\ Player/#SharedObjects/*
